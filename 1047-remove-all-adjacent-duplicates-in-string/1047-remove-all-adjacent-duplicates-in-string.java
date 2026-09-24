@@ -13,13 +13,12 @@ class Solution {
                 stack.push(c);
             }
         }
-        String new_s="";
-        while(!stack.isEmpty())
-        {
-            new_s=stack.pop()+new_s;
+        StringBuilder result = new StringBuilder();
+
+        for (char c : stack) {
+            result.append(c);
         }
 
-
-        return new_s;
+        return result.toString();
     }
 }
