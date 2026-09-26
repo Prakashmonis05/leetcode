@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Prakashmonis05/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prakashmonis05/Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Prakashmonis05/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3866-first-unique-even-element](https://github.com/Prakashmonis05/Practice/tree/master/3866-first-unique-even-element) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prakashmonis05/Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Prakashmonis05/Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prakashmonis05/Practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
