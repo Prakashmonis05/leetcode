@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Prakashmonis05/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prakashmonis05/Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakashmonis05/Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prakashmonis05/Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3856-trim-trailing-vowels](https://github.com/Prakashmonis05/Practice/tree/master/3856-trim-trailing-vowels) |
 ## Array
@@ -157,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prakashmonis05/Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakashmonis05/Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Prakashmonis05/Practice/tree/master/1672-richest-customer-wealth) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakashmonis05/Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
