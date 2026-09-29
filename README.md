@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Prakashmonis05/Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Prakashmonis05/Practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/Prakashmonis05/Practice/tree/master/2235-add-two-integers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Prakashmonis05/Practice/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prakashmonis05/Practice/tree/master/0374-guess-number-higher-or-lower) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakashmonis05/Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Prakashmonis05/Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
