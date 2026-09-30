@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkGoodInteger(int n) {
         int digitSum=0;
-        int squareSum=1;
+        int squareSum=0;
 
         while(n>0)
         {
@@ -10,9 +10,6 @@ class Solution {
             squareSum+=rem*rem;
             n=n/10;
         }
-        System.out.println(digitSum);
-        System.out.println(squareSum);
-
         if(squareSum-digitSum>=50)
         {
             return true;
