@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Prakashmonis05/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Prakashmonis05/Practice/tree/master/1929-concatenation-of-array) |
+| [3959-check-good-integer](https://github.com/Prakashmonis05/Practice/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/Prakashmonis05/Practice/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prakashmonis05/Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/Prakashmonis05/Practice/tree/master/3871-count-commas-in-range-ii) |
+| [3959-check-good-integer](https://github.com/Prakashmonis05/Practice/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
