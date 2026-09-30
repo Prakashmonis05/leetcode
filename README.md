@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Prakashmonis05/Practice/tree/master/0507-perfect-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Prakashmonis05/Practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Prakashmonis05/Practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Prakashmonis05/Practice/tree/master/2413-smallest-even-multiple) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
