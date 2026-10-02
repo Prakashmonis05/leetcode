@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Prakashmonis05/Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prakashmonis05/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Prakashmonis05/Practice/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Prakashmonis05/Practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Prakashmonis05/Practice/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prakashmonis05/Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Prakashmonis05/Practice/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Prakashmonis05/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Prakashmonis05/Practice/tree/master/1929-concatenation-of-array) |
 | [3959-check-good-integer](https://github.com/Prakashmonis05/Practice/tree/master/3959-check-good-integer) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Prakashmonis05/Practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Prakashmonis05/Practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Prakashmonis05/Practice/tree/master/0507-perfect-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Prakashmonis05/Practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Prakashmonis05/Practice/tree/master/2235-add-two-integers) |
