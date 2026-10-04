@@ -1,18 +1,20 @@
 class Solution {
     public String reversePrefix(String s, int k) {
-        if(k==1)
-        {
+        if(k==0){
             return s;
         }
-        String res="";
-        for(char n:s.substring(0,k).toCharArray())
+        StringBuilder res=new StringBuilder();
+
+        for(int i=k-1;i>=0;i--)
         {
-            res=n+res;
+            res.append(s.charAt(i));
         }
-        for(char n:s.substring(k,s.length()).toCharArray())
+
+        for(int i=k;i<s.length();i++)
         {
-            res=res+n;
+            res.append(s.charAt(i));
         }
-        return res;
+
+        return res.toString();
     }
 }
