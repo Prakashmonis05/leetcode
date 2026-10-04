@@ -8,7 +8,7 @@ class Solution {
             set.add(num);
         }
 
-        for(int num: set)
+        for(int num: nums)
         {
             if(num>0 && set.contains(-num))
             {
