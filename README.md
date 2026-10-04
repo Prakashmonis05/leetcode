@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Prakashmonis05/Practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Prakashmonis05/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Prakashmonis05/Practice/tree/master/1929-concatenation-of-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Prakashmonis05/Practice/tree/master/3285-find-indices-of-stable-mountains) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Prakashmonis05/Practice/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3866-first-unique-even-element](https://github.com/Prakashmonis05/Practice/tree/master/3866-first-unique-even-element) |
 ## Database
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Prakashmonis05/Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3794-reverse-string-prefix](https://github.com/Prakashmonis05/Practice/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Quicksort
 |  |
 | ------- |
