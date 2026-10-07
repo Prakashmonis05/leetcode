@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prakashmonis05/Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prakashmonis05/Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Prakashmonis05/Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Prakashmonis05/Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Prakashmonis05/Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prakashmonis05/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prakashmonis05/Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prakashmonis05/Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prakashmonis05/Practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0172-factorial-trailing-zeroes) |
