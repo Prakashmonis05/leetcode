@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Prakashmonis05/Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Prakashmonis05/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Prakashmonis05/Practice/tree/master/0771-jewels-and-stones) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prakashmonis05/Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Prakashmonis05/Practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Prakashmonis05/Practice/tree/master/0507-perfect-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Prakashmonis05/Practice/tree/master/2119-a-number-after-a-double-reversal) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Prakashmonis05/Practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prakashmonis05/Practice/tree/master/0374-guess-number-higher-or-lower) |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prakashmonis05/Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
