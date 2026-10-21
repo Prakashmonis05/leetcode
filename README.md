@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0605-can-place-flowers](https://github.com/Prakashmonis05/Practice/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Prakashmonis05/Practice/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prakashmonis05/Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Prakashmonis05/Practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
