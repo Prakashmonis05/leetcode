@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Prakashmonis05/Practice/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/Prakashmonis05/Practice/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Prakashmonis05/Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Prakashmonis05/Practice/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Prakashmonis05/Practice/tree/master/0197-rising-temperature) |
