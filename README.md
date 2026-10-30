@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Prakashmonis05/Practice/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Prakashmonis05/Practice/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Prakashmonis05/Practice/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prakashmonis05/Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prakashmonis05/Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Prakashmonis05/Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Quicksort
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Prakashmonis05/Practice/tree/master/1051-height-checker) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Prakashmonis05/Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
