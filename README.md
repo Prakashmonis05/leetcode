@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prakashmonis05/Practice/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Prakashmonis05/Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Prakashmonis05/Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakashmonis05/Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prakashmonis05/Practice/tree/master/0287-find-the-duplicate-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prakashmonis05/Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prakashmonis05/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Prakashmonis05/Practice/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Prakashmonis05/Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Prakashmonis05/Practice/tree/master/0229-majority-element-ii) |
 | [3866-first-unique-even-element](https://github.com/Prakashmonis05/Practice/tree/master/3866-first-unique-even-element) |
 ## Recursion
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prakashmonis05/Practice/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Prakashmonis05/Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prakashmonis05/Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakashmonis05/Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prakashmonis05/Practice/tree/master/0496-next-greater-element-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Prakashmonis05/Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
