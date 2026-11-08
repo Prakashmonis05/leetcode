@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Prakashmonis05/Practice/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Prakashmonis05/Practice/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Prakashmonis05/Practice/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Prakashmonis05/Practice/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Prakashmonis05/Practice/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Prakashmonis05/Practice/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Prakashmonis05/Practice/tree/master/1251-average-selling-price) |
