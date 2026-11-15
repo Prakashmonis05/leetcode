@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Prakashmonis05/Practice/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Prakashmonis05/Practice/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Prakashmonis05/Practice/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Prakashmonis05/Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prakashmonis05/Practice/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prakashmonis05/Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Prakashmonis05/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Prakashmonis05/Practice/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Prakashmonis05/Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Prakashmonis05/Practice/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Prakashmonis05/Practice/tree/master/2000-reverse-prefix-of-word) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prakashmonis05/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prakashmonis05/Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Prakashmonis05/Practice/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Prakashmonis05/Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakashmonis05/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prakashmonis05/Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
