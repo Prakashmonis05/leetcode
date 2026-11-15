@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Prakashmonis05/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Prakashmonis05/Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prakashmonis05/Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Prakashmonis05/Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/Prakashmonis05/Practice/tree/master/2562-find-the-array-concatenation-value) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Prakashmonis05/Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakashmonis05/Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Prakashmonis05/Practice/tree/master/1859-sorting-the-sentence) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Prakashmonis05/Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Quicksort
 |  |
