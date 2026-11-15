@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Prakashmonis05/Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prakashmonis05/Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2562-find-the-array-concatenation-value](https://github.com/Prakashmonis05/Practice/tree/master/2562-find-the-array-concatenation-value) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prakashmonis05/Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Prakashmonis05/Practice/tree/master/3285-find-indices-of-stable-mountains) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prakashmonis05/Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Prakashmonis05/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Prakashmonis05/Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prakashmonis05/Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2562-find-the-array-concatenation-value](https://github.com/Prakashmonis05/Practice/tree/master/2562-find-the-array-concatenation-value) |
 | [3959-check-good-integer](https://github.com/Prakashmonis05/Practice/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/Prakashmonis05/Practice/tree/master/4020-elevator-requests-i) |
 ## Hash Table
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Prakashmonis05/Practice/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Prakashmonis05/Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prakashmonis05/Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2562-find-the-array-concatenation-value](https://github.com/Prakashmonis05/Practice/tree/master/2562-find-the-array-concatenation-value) |
 | [3794-reverse-string-prefix](https://github.com/Prakashmonis05/Practice/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
