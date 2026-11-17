@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Prakashmonis05/Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prakashmonis05/Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prakashmonis05/Practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/Prakashmonis05/Practice/tree/master/3570-find-books-with-no-available-copies) |
 ## Math
 |  |
 | ------- |
